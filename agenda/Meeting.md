@@ -40,6 +40,7 @@ Egyptian Geeks Platform
 - Mohamed Taha Farag
 - Maged Eladawy
 - Ahmad Abd-Elghany
+- Mohammed Shokr
 - you ? [Join Us](https://docs.google.com/forms/d/1qrFymKK-3wtdu4b99XgsGqSXq3wAw_4X6M8RkdT9kPs/viewform?usp=send_form)
 
 ----------
